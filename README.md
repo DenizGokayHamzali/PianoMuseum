@@ -2,7 +2,7 @@
 The seven most expensive pianos in the world.
 
 ## About The Project
-![Image](img/About%20the%20project.png)
+![Image](img/About-the-project.png)
 
 This project has been prepared for Patika.Dev Front-End course.
 
@@ -24,4 +24,5 @@ git clone https://github.com/DenizGokayHamzali/PianoMuseum.git
 ## Contact
 
 Deniz Gökay Hamzalı 
+
 <denizgokayhamzali@gmail.com>
