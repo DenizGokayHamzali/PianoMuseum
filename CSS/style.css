@@ -1,0 +1,90 @@
+body {
+    background-color: #FFCCB3;
+    font-family: 'Silkscreen', cursive ;
+}
+
+h1 {
+    color: #F675A8;
+    text-align: center;
+}
+
+h2 {
+    color: #F29393;
+    text-align: center;    
+}
+
+h3 {
+    color: #c45682;
+}
+
+hr {
+    border: 1px solid #554994;
+}
+
+.none {
+    list-style-type: none;
+}
+
+ul li::before {
+    content: "\2022";
+    color: #554994;
+    font-weight: bold;
+    margin-left: -1em;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+#Third-article {
+    color: #c45682; 
+    text-align: center;
+}
+
+.l-center {
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+nav {
+    text-align: center;
+}
+
+#Nav-A {
+    display: inline-block;
+}
+
+#Nav-B {
+    padding: 20px;
+    display: inline-block;
+       
+}
+
+#Nav-C {
+    display: inline-block;
+}
+
+#Fun {
+    color: #554994;
+}
+
+#Address {
+    font-weight: bold;
+}
+
+img {
+    width: 500px;
+    height: 400px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#Main-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
