@@ -20,6 +20,8 @@ git clone https://github.com/DenizGokayHamzali/PianoMuseum.git
 
 ## License
 [MIT](choosealicense.com/licenses/mit/)
+The copyrights of all the images I have used belong to their owners.
+I do not make any profit from these images, thank you.
 
 ## Contact
 
